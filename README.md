@@ -1,12 +1,3 @@
-# 🚀 Next.js Crash Course — Learn with Sumit
-
-Welcome to the official source code repository for the **Next.js Crash Course** on [YouTube](https://youtube.com/@logicBaseLabs). This crash course is designed to help you get started with **Next.js** — a powerful React framework for building fast, full-stack web applications.
-
-🎬 **Watch the full tutorial:**
-👉 [Next.js Crash Course on YouTube](https://youtube.com/@logicBaseLabs)
-
----
-
 ## 📚 What You’ll Learn
 
 This project covers:
